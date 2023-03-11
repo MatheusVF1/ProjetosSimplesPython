@@ -1,2 +1,2 @@
-# ProjetosSimplesPython
-Alguns projetos bem simples utilizando Python
+# Projetos Simples utilizando Python
+Aqui fiz alguns pequenos projetos apenas para brincar com python.
