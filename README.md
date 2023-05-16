@@ -1,4 +1,4 @@
 # Projetos Simples utilizando Python
-Aqui fiz alguns pequenos projetos apenas para brincar com python.
+Este repositório é destinado a alguns projetos simples feitos em Python
 
 Para gerar a parte gráfica utilizei a biblioteca PySimpleGUI na maioria deles.
