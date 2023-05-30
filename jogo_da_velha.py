@@ -1,5 +1,7 @@
 import time
 
+# Jogo da velha criado utilizando mini max
+
 
 class Player:
     players = []
